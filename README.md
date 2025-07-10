@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Sotodai.github.io/rsschool-cv/cv
