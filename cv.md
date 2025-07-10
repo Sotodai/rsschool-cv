@@ -14,3 +14,11 @@
 - JavaScript
 - React.js
 - Node.js
+## Soft Skills
+- Scrum
+- Agile
+- GTD
+- Teamwork  
+## Languages 
+- English - A2
+- Ukrainian - Upper-Intermediate 
