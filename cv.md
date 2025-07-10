@@ -25,11 +25,9 @@ Hi, I want to become a front-end developer!
 ## Code Example
 <pre>
     <code>
-        "
         function greet(name){
             return "Hello, " + name + " how are you doing today?"
         }
-        "
     </code>
 </pre>
 ## Languages 
