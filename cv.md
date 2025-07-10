@@ -1,5 +1,4 @@
 # Yaroslav Haidai
-<img src="https://avatars.githubusercontent.com/u/85753208?v=4" alt="">
 ## Contact information
 - **Location:** Kyiv, Ukraine
 - **Phone:** +380997825544
