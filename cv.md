@@ -21,7 +21,13 @@ Hi, I want to become a front-end developer!
 - Scrum
 - Agile
 - GTD
-- Teamwork  
+- Teamwork 
+## Code Example
+'
+function greet(name){
+  return "Hello, " + name + " how are you doing today?"
+}
+'
 ## Languages 
 - English - A2
 - Ukrainian - Upper-Intermediate 
