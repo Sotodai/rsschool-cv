@@ -6,3 +6,11 @@
 - **Discord:** Yaroslav Haidai(@Sotodai)
 ## Education
 - National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»<br>*Economic cybernetics 2018 - 2022*
+## Technical Skills
+- HTML5
+- CSS3
+- GIT
+- WebPack
+- JavaScript
+- React.js
+- Node.js
