@@ -23,11 +23,15 @@ Hi, I want to become a front-end developer!
 - GTD
 - Teamwork 
 ## Code Example
-`
-function greet(name){
-  return "Hello, " + name + " how are you doing today?"
-}
-`
+<pre>
+    <code>
+        "
+        function greet(name){
+            return "Hello, " + name + " how are you doing today?"
+        }
+        "
+    </code>
+</pre>
 ## Languages 
 - English - A2
 - Ukrainian - Upper-Intermediate 
