@@ -1,5 +1,4 @@
 # Yaroslav Haidai
-[](<img src="https://avatars.githubusercontent.com/u/211639598?s=192&v=4" alt="Моя аватарка" width="150"/>)
 ## Contact information
 - **Location:** Kyiv, Ukraine
 - **Phone:** +380997825544
