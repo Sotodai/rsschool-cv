@@ -9,24 +9,28 @@ body {
     width: 1200px;
     margin: 0 auto;
     display: flex;
-    flex-direction: row-reverse;
     background-color: white;
 }
 
 /* #endregion */
 
-/* #region About me */
-.about-me {
-    margin-bottom: 64px;
+/* #region Main content */
+.main-content {
+    padding: 88px;
 }
 
-.my-profession {
-    font-style: normal;
+.main-content-title {
     font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
+    font-size: 22px;
+    line-height: 27px;
     color: #000000;
-    margin: 0 0 18px 0;
+    margin: 0;
+}
+/* #endregion */
+
+/* #region About me */
+.about-me {
+    margin-bottom: 52px;
 }
 
 .my-name {
@@ -48,19 +52,6 @@ body {
 
 /* #endregion */
 
-/* #region Main content */
-.main-content {
-    padding: 88px;
-}
-
-.main-content-title {
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    color: #000000;
-    margin: 0;
-}
-/* #endregion */
 
 /* #region Projects */
 .projects-container {
@@ -104,6 +95,10 @@ body {
     margin-bottom: 44px;
 }
 
+.work-experience-place{
+    margin-bottom: 16px;
+}   
+
 .work-experience-position{
     font-style: normal;
     font-weight: 700;
@@ -113,6 +108,9 @@ body {
     margin: 0;
 }
 
+.work-experience-company{
+    color: #6D9BF5;
+}
 /* #endregion */
 
 /* #region Sidebar */
@@ -196,4 +194,12 @@ body {
     color: #161D2A;
 }
 
+/* #endregion */
+
+/*  #region footer*/
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
 /* #endregion */

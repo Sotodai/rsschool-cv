@@ -2,7 +2,7 @@
 ![Photo](https://avatars.githubusercontent.com/u/85753208?v=4)
 ## Contact information
 - **Location:** Kyiv, Ukraine
-- **Phone:** +380997825544
+- **Phone:** +3809978255**
 - **Email:** yaroslavgaidai@gmail.com
 - **Discord:** Yaroslav Haidai(@Sotodai)
 ## About Me
